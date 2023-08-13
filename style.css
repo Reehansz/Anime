@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+img{
+    width: 50%;
+    height: 350px;
+    float:right;
+    margin: 10px;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+.mm{
+    color: rgb(11, 11, 11);
+    text-align: center;
+    object-fit:cover;
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+    
+}
+
+#sakuna{
+    background-color: rgb(93, 187, 234);
+    margin: 0;
+}
+
+#Gojusaturo{
+    background-color: rgb(238, 168, 238);
+    margin: 0;
+}
+
+#yuta{
+    background-color: rgb(249, 29, 29);
+    margin: 0;
+}
